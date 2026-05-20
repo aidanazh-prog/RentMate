@@ -1,1 +1,1 @@
-# RentMate
+# rent-mate
